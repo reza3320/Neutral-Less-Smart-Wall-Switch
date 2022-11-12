@@ -8,6 +8,12 @@ For this king of buildings you need to rewire the whole unit for applying some s
 ![image](https://user-images.githubusercontent.com/72464277/201483870-30e995f5-3a12-4032-83e8-75dc9b88ce2f.png)
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+For our smart switch we need a power supply, in case we don't want to use battery, we have to give our switch a neutral wire but we don't have one.
+So what shall we do?
+
+let's first compare the current flowing in our wiring while the switch is OFF and ON.
 While the switch is OFF, the hot wire is like this:
 
 
