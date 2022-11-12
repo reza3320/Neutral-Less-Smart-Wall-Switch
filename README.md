@@ -21,13 +21,16 @@ But when the lamp is on, it's like this:
 
 
 Now all of the wires have current and all of them are dangerous like hell!
-Can you see the difference? while the lamp is off, we have one neutral wire in our switch!😈
+Did you see my point of comparing this? while the lamp is off, we have one neutral wire in our switch!😈
 
 ![image](https://user-images.githubusercontent.com/72464277/201484165-3b281cd2-fe3b-4db2-88a1-65b8305dc4af.png)
 
 
 The frequency of AC power line is 50/60 Hz.
 If you draw the voltage-time chart of an AC lin, your chart will be like this:
+
+
+![image](https://user-images.githubusercontent.com/72464277/201484521-86a3cf8b-ee31-4a8e-add7-b9d1865d07c7.png)
 
 
 
