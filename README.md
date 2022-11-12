@@ -1,4 +1,13 @@
 # Neutral-Less-Smart-Wall-Switch
+
+Most buildings have "Neutral" wiring in all of their wall switches and plugs but some old or none standard buildings don't have.
+For this king of buildings you need to rewire the whole unit for applying some smart swithes but with this design you don't need to.
+![image](https://user-images.githubusercontent.com/72464277/201483817-3e9a5f39-d4a5-481a-904d-7334874f2a06.png)
+![image](https://user-images.githubusercontent.com/72464277/201483870-30e995f5-3a12-4032-83e8-75dc9b88ce2f.png)
+
+
+
+
 ![Assembly](https://user-images.githubusercontent.com/72464277/201482602-208cbb10-9aef-4506-b64e-cf4c6dacd172.png)
 ![Assembly1](https://user-images.githubusercontent.com/72464277/201482628-bf35b448-d1e5-4e6d-ad8c-6a6da66b11e2.png)
 ![Assembly2](https://user-images.githubusercontent.com/72464277/201482629-cf0e8efe-a561-4702-bf16-ddaaba4f23f5.png)
