@@ -46,6 +46,7 @@ Now the transformer do it's job and pass the 5v dc to a rectifier and the rectif
 
 The complete schematic for this SMPS is this:
 
+![image](https://user-images.githubusercontent.com/72464277/201486122-d1304ffa-01da-4d19-9592-c6335ef2e6c0.png)
 
 
 
