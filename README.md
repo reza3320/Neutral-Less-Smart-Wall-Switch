@@ -2,8 +2,35 @@
 
 Most buildings have "Neutral" wiring in all of their wall switches and plugs but some old or none standard buildings don't have.
 For this king of buildings you need to rewire the whole unit for applying some smart swithes but with this design you don't need to.
+
+
 ![image](https://user-images.githubusercontent.com/72464277/201483817-3e9a5f39-d4a5-481a-904d-7334874f2a06.png)
 ![image](https://user-images.githubusercontent.com/72464277/201483870-30e995f5-3a12-4032-83e8-75dc9b88ce2f.png)
+
+
+While the switch is OFF, the hot wire is like this:
+
+
+![image](https://user-images.githubusercontent.com/72464277/201484007-fffb1320-c07b-4641-88cd-bb546dc82f7f.png)
+
+
+But when the lamp is on, it's like this:
+
+
+![image](https://user-images.githubusercontent.com/72464277/201484073-151c5d52-e017-49d7-af5b-15b26b63fbf1.png)
+
+
+Now all of the wires have current and all of them are dangerous like hell!
+Can you see the difference? while the lamp is off, we have one neutral wire in our switch!😈
+
+![image](https://user-images.githubusercontent.com/72464277/201484165-3b281cd2-fe3b-4db2-88a1-65b8305dc4af.png)
+
+
+The frequency of AC power line is 50/60 Hz.
+If you draw the voltage-time chart of an AC lin, your chart will be like this:
+
+
+
 
 
 
