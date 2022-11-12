@@ -31,6 +31,24 @@ Did you see my point of comparing this? while the lamp is off, we have one neutr
 
 ![image](https://user-images.githubusercontent.com/72464277/201484165-3b281cd2-fe3b-4db2-88a1-65b8305dc4af.png)
 
+How can this neutral wire can help us?
+An AC to DC convertor can be made with different methods, but in our case that we just a little amount of current for our microcontroller and also we have a limitted space in our wallswith we shoud use a switched mode power supply (SMPS). what does it mean?
+
+Let's take a look at a simple diagram of this converter.
+
+![image](https://user-images.githubusercontent.com/72464277/201485693-4dd8a84f-f928-45dc-a608-24d772bb3ff8.png)
+
+
+The rectifier convert the current from 220v Dc to 220v AC.
+For converting 220v dc to 5v dc we need the transformer to operate and transformer works with alternative current(AC).
+so we need to make the current alternate with and oscillator circuit that runs around 20mHz.
+Now the transformer do it's job and pass the 5v dc to a rectifier and the rectifier smooth and rectify the oscillating 5v current and deliver it to us.
+
+The complete schematic for this SMPS is this:
+
+
+
+
 
 The frequency of AC power line is 50/60 Hz.
 If you draw the voltage-time chart of an AC lin, your chart will be like this:
