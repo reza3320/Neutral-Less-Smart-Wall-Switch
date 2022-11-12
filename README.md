@@ -33,6 +33,10 @@ If you draw the voltage-time chart of an AC lin, your chart will be like this:
 ![image](https://user-images.githubusercontent.com/72464277/201484521-86a3cf8b-ee31-4a8e-add7-b9d1865d07c7.png)
 
 
+I talk about 220v 50Hz cause this smart switch is base on it.
+in the 50Hz current, voltage is 0 on 0,10,20,30, etc millisecond. so if we cut the line in those moment, we won't lose much current, but it can power our circuit for controlling the switch.
+
+
 
 
 
